@@ -5,6 +5,12 @@
     "esModuleInterop": true,
     "isolatedModules": true,
     "jsx": "react",
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "target": "es2015",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "types": [
+      "@emotion/react/types/css-prop"
+    ]
   }
 }

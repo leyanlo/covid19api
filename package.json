@@ -17,7 +17,6 @@
     "@deck.gl/layers": "^8.1.0",
     "@deck.gl/react": "^8.1.0",
     "@emotion/styled": "^11.14.0",
-    "deck.gl": "^8.1.0",
     "gatsby": "5.16.1",
     "gatsby-plugin-emotion": "8.16.0",
     "gatsby-plugin-google-analytics": "5.16.0",
@@ -82,6 +81,17 @@
     "tmp": "0.2.7",
     "trim@0.0.x": "0.0.3",
     "trim-newlines@^3": "3.0.1",
-    "path-to-regexp@0.1.x": "0.1.13"
+    "path-to-regexp@0.1.x": "0.1.13",
+    "flatted": "3.4.4",
+    "serialize-javascript": "7.1.2",
+    "@graphql-tools/utils": "13.1.1",
+    "webpack-dev-middleware": "7.4.6",
+    "micromatch": "4.0.8",
+    "postcss": "8.5.31",
+    "trim-newlines": "3.0.1",
+    "semver@^6": "6.3.1",
+    "semver@^7": "7.8.5",
+    "dot-prop@^3": "4.2.1",
+    "cross-spawn@^5": "6.0.6"
   }
 }
